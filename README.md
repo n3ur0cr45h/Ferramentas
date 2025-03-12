@@ -67,3 +67,21 @@
 
 ----
 
+<details>
+  <summary><b> Pesquisa de Pessoas e Dados Públicos </b></summary>
+<div align="Center"> 
+
+<br>
+
+| Título                 | Descrição                                                                           |
+| -----------------------| ------------------------------------------------------------------------------------|
+| TruePeopleSearch       | Pesquisa de informações sobre pessoas nos EUA.                                      |
+| Whitepages             | Diretório de informações públicas de pessoas.                                       |                                                           
+| Zabasearch             | Pesquisa de informações públicas de pessoas.                                        |    
+| People Search Now      | Pesquisa de pessoas.                                                                |
+| Spokeo                 | Busca de informações públicas sobre pessoas.                                        |
+
+</div> 
+</details>
+
+----
