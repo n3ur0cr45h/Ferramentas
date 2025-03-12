@@ -6,3 +6,64 @@
 
 ----
 
+<details>
+  <summary><b> Segurança Cibernética </b></summary>
+<div align="Center"> 
+
+<br>
+
+| Título                | Descrição                                                                                  |
+| ----------------------| -------------------------------------------------------------------------------------------|
+| AbuseIPDB             | Banco de dados de IPs maliciosos.                                                          |
+| Talos Intelligence    | Inteligência sobre ameaças cibernéticas.                                                   |                                                           
+| Have I Been Pwned?    | Verifica se seu e-mail foi exposto em vazamentos de dados.                                 |                                                               
+| SpyCloud              | Plataforma que detecta credenciais vazadas.                                                |        
+| WhosisXML API         | API para obter informações sobre IPs e domínios.                                           |
+| PSBDMP                | Verificação de bases de dados de vazamento de credenciais.                                 |
+| X1 Social Discovery   | Ferramenta de investigação para mídia social e dados online.                               |
+
+</div> 
+</details>
+
+----
+
+<details>
+  <summary><b> Pesquisa e Validação de E-mails </b></summary>
+<div align="Center"> 
+
+<br>
+
+| Título         | Descrição                                                                           |
+| ---------------| ------------------------------------------------------------------------------------|
+| Temp Mail      | E-mail temporário.                                                                  |
+| Guerrilla Mail | Serviço de e-mail temporário.                                                       |                                                           
+| Tutanota       | E-mail seguro e criptografado.                                                      |                                                               
+| Proton Mail    | E-mail seguro e criptografado.                                                      |         
+| Hunter         | Busca e validação de e-mails corporativos.                                          |
+| Verify Email   | Validação de endereços de e-mail.                                                   |
+| DeBounce       | Validação de e-mails.                                                               |
+| Emailable      | Ferramenta de verificação de e-mails.                                               |
+| Email Hippo    | Validação de e-mails.                                                               |
+
+</div> 
+</details>
+
+----
+
+<details>
+  <summary><b> Identidade Falsa e Privacidade </b></summary>
+<div align="Center"> 
+
+<br>
+
+| Título                 | Descrição                                                                           |
+| -----------------------| ------------------------------------------------------------------------------------|
+| FakeNameGenerator      | Geração de identidades falsas.                                                      |
+| ThisPersonDoesNotExist | Serviço de e-mail temporário.                                                       |                                                           
+| FakeCallerID           | Geração de números de telefone falsos.                                              |                                                               
+
+</div> 
+</details>
+
+----
+
