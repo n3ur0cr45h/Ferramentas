@@ -86,24 +86,6 @@
 ----
 
 <details>
-  <summary><b> Análise de URLs e IPs </b></summary>
-<div align="Center"> 
-
-<br>
-
-| Título                 | Descrição                                                                           |
-| -----------------------| ------------------------------------------------------------------------------------|
-| IPInfo.io              | Informações sobre IPs.                                                              |
-| URLScan.io             | Análise de URLs para detectar atividades maliciosas.                                |   
-| URL2PNG                | Geração de imagens de visualização de sites a partir de URLs.                       |    
-| Wannabrowser           | Emulador de navegador para análise de sites.                                        |
-
-</div> 
-</details>
-
-----
-
-<details>
   <summary><b> Redes </b></summary>
 <div align="Center"> 
 
@@ -112,6 +94,10 @@
 | Título                 | Descrição                                                                           |
 | -----------------------| ------------------------------------------------------------------------------------|
 | Open vSwitch           | Software de switch virtual para nuvem.                                              |
+| IPInfo.io              | Informações sobre IPs.                                                              |
+| URLScan.io             | Análise de URLs para detectar atividades maliciosas.                                |   
+| URL2PNG                | Geração de imagens de visualização de sites a partir de URLs.                       |    
+| Wannabrowser           | Emulador de navegador para análise de sites.                                        |
 
 </div> 
 </details>
