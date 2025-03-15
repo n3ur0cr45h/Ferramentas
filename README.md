@@ -30,8 +30,11 @@
 | Wazuh                   | Solução EDR para monitoramento e resposta a incidentes de segurança.                       |
 | Splunk                  | Plataforma para análise de logs e monitoramento de segurança em tempo real.                |
 | ELK                     | Conjunto para coleta, análise e visualização de dados, monitoramento de segurança.         |
-| QRadar                  |  Sistema SIEM para detecção, resposta e análise de ameaças de segurança.                   | 
-</div> 
+| QRadar                  | Sistema SIEM para detecção, resposta e análise de ameaças de segurança.                    | 
+| Frida                   | Framework de injeção de scripts em tempo real, para análise e engenharia reversa de apps   |
+
+
+/div> 
 </details>
 
 ----
@@ -69,6 +72,7 @@
 | crt.sh                 | Banco de dados de certificados SSL/TLS, útil para investigar a infraestrutura de um alvo.                                |
 | ctsearch.entrust.com   | Outra fonte de dados públicos para buscar certificados SSL/TLS de domínios.                                              | 
 | PasteHunter            | Busca e alerta para dados vazados em dumps públicos de dados como senhas e informações pessoais.                         | 
+
 </div> 
 </details>
 
@@ -80,14 +84,23 @@
 
 <br>
 
-| Título                 | Descrição                                                                           |
-| -----------------------| ------------------------------------------------------------------------------------|
-| Hunchly                | Ferramenta de coleta de dados online.                                               |
-| FireShot               | Captura de telas de sites.                                                          |   
-| HTTrack                | Download e espelhamento de sites.                                                   |    
-| Web2Disk               | Download de Sites Localmente                                                        |
-| SiteSucker             | Ferramenta de download de websites.                                                 |
-| EyeWitness             | Coleta e análise de capturas de tela de sites.                                      |
+| Título                 | Descrição                                                                                          |
+| -----------------------| ---------------------------------------------------------------------------------------------------|
+| Hunchly                | Ferramenta de coleta de dados online.                                                              |
+| FireShot               | Captura de telas de sites.                                                                         |   
+| HTTrack                | Download e espelhamento de sites.                                                                  |    
+| Web2Disk               | Download de Sites Localmente                                                                       |
+| SiteSucker             | Ferramenta de download de websites.                                                                |
+| EyeWitness             | Coleta e análise de capturas de tela de sites.                                                     |
+| WPScan                 | Ferramenta de auditoria para WordPress, identificando vulnerabilidades e informações sobre o site. |
+| SQLMap                 | Ferramenta para testar e explorar vulnerabilidades de injeção SQL em aplicações web.               |
+| NoSQLMap               | Similar ao SQLMap, mas voltado para bancos de dados NoSQL.                                         |
+| SSRFmap                | Ferramenta para explorar vulnerabilidades de Server Side Request Forgery (SSRF) em servidores web. | 
+| Ffuf                   | Ferramenta de fuzzing e brute force para descobrir diretórios e arquivos em servidores web.        | 
+| Dirb                   | Scanner para brute force de diretórios e arquivos em servidores web.                               | 
+| Gobuster               | Outra ferramenta de brute force para descobrir subdomínios e diretórios em servidores web.         | 
+| requestbin.com         | Serviço para coletar e logar requisições HTTP para análise posterior.                              | 
+| Dependency-Check OWASP | Ferramenta para detectar bibliotecas e dependências vulneráveis em projetos de software.           |
 
 </div> 
 </details>
@@ -100,13 +113,18 @@
 
 <br>
 
-| Título                 | Descrição                                                                           |
-| -----------------------| ------------------------------------------------------------------------------------|
-| Open vSwitch           | Software de switch virtual para nuvem.                                              |
-| IPInfo.io              | Informações sobre IPs.                                                              |
-| URLScan.io             | Análise de URLs para detectar atividades maliciosas.                                |   
-| URL2PNG                | Geração de imagens de visualização de sites a partir de URLs.                       |    
-| Wannabrowser           | Emulador de navegador para análise de sites.                                        |
+| Título                 | Descrição                                                                                   |
+| -----------------------| --------------------------------------------------------------------------------------------|
+| Open vSwitch           | Software de switch virtual para nuvem.                                                      |
+| IPInfo.io              | Informações sobre IPs.                                                                      |
+| URLScan.io             | Análise de URLs para detectar atividades maliciosas.                                        |   
+| URL2PNG                | Geração de imagens de visualização de sites a partir de URLs.                               |    
+| Wannabrowser           | Emulador de navegador para análise de sites.                                                |
+| DNSrecon               | Ferramenta de reconhecimento DNS, com capacidade de brute force para encontrar subdomínios. | 
+| Sublist3r              | Outra ferramenta para reconhecimento e brute force de subdomínios.                          |
+| Nbtscan                | Scanner de rede para descobrir computadores e serviços utilizando o protocolo NetBIOS.      |
+| Enum4Linux             | Ferramenta para enumeração de informações em redes Linux, como usuários e compartilhamentos.|
+| | Smtp-user-enum       | Ferramenta de enumeração de usuários válidos em servidores SMTP, coleta de dados de e-mail  |
 
 </div> 
 </details>
@@ -123,7 +141,7 @@
 | -----------------------| ------------------------------------------------------------------------------------|
 | Pastebin               | Armazenamento e compartilhamento de código e texto.                                 |
 | Dontpad                | Compartilhamento de texto online                                                    |
- 
+
 </div> 
 </details>
 
