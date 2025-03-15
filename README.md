@@ -27,7 +27,10 @@
 | Cyberdom Blog           | Blog de segurança cibernética.                                                             | 
 | LOLBA                   | Técnicas e ferramentas para explorar vulnerabilidades de sistemas Windows.                 |
 | DMARCian                | Implementação de políticas DMARC para e-mails.                                             |
-
+| Wazuh                   | Solução EDR para monitoramento e resposta a incidentes de segurança.                       |
+| Splunk                  | Plataforma para análise de logs e monitoramento de segurança em tempo real.                |
+| ELK                     | Conjunto para coleta, análise e visualização de dados, monitoramento de segurança.         |
+| QRadar                  |  Sistema SIEM para detecção, resposta e análise de ameaças de segurança.                   | 
 </div> 
 </details>
 
@@ -39,27 +42,33 @@
 
 <br>
 
-| Título                 | Descrição                                                                           |
-| -----------------------| ------------------------------------------------------------------------------------|
-| FakeNameGenerator      | Geração de identidades falsas.                                                      |
-| ThisPersonDoesNotExist | Serviço de e-mail temporário.                                                       |                                                           
-| FakeCallerID           | Geração de números de telefone falsos.                                              |  
-| TruePeopleSearch       | Pesquisa de informações sobre pessoas nos EUA.                                      |
-| Whitepages             | Diretório de informações públicas de pessoas.                                       |                                                           
-| Zabasearch             | Pesquisa de informações públicas de pessoas.                                        |    
-| People Search Now      | Pesquisa de pessoas.                                                                |
-| Spokeo                 | Busca de informações públicas sobre pessoas.                                        |
-| Temp Mail              | E-mail temporário.                                                                  |
-| Guerrilla Mail         | Serviço de e-mail temporário.                                                       |                                                           
-| Tutanota               | E-mail seguro e criptografado.                                                      |                                                               
-| Proton Mail            | E-mail seguro e criptografado.                                                      |         
-| Hunter                 | Busca e validação de e-mails corporativos.                                          |
-| Verify Email           | Validação de endereços de e-mail.                                                   |
-| DeBounce               | Validação de e-mails.                                                               |
-| Emailable              | Ferramenta de verificação de e-mails.                                               |
-| Email Hippo            | Validação de e-mails.                                                               |
-| Knowem                 | Verifica a disponibilidade de nomes de usuário.                                     |
-
+| Título                 | Descrição                                                                                                                |
+| -----------------------| -------------------------------------------------------------------------------------------------------------------------|
+| FakeNameGenerator      | Geração de identidades falsas.                                                                                           |
+| ThisPersonDoesNotExist | Serviço de e-mail temporário.                                                                                            |                                                           
+| FakeCallerID           | Geração de números de telefone falsos.                                                                                   |  
+| TruePeopleSearch       | Pesquisa de informações sobre pessoas nos EUA.                                                                           |
+| Whitepages             | Diretório de informações públicas de pessoas.                                                                            |                                                           
+| Zabasearch             | Pesquisa de informações públicas de pessoas.                                                                             |    
+| People Search Now      | Pesquisa de pessoas.                                                                                                     |
+| Spokeo                 | Busca de informações públicas sobre pessoas.                                                                             |
+| Temp Mail              | E-mail temporário.                                                                                                       |
+| Guerrilla Mail         | Serviço de e-mail temporário.                                                                                            |                                                           
+| Tutanota               | E-mail seguro e criptografado.                                                                                           |                                                               
+| Proton Mail            | E-mail seguro e criptografado.                                                                                           |         
+| Hunter                 | Busca e validação de e-mails corporativos.                                                                               |
+| Verify Email           | Validação de endereços de e-mail.                                                                                        |
+| DeBounce               | Validação de e-mails.                                                                                                    |
+| Emailable              | Ferramenta de verificação de e-mails.                                                                                    |
+| Email Hippo            | Validação de e-mails.                                                                                                    |
+| Knowem                 | Verifica a disponibilidade de nomes de usuário.                                                                          | 
+| ExfiTool               | Extração e análise de metadados EXIF, útil para identificar dados de localização e autor de documentos e imagens.        |
+| SpiderFoot             | Ferramenta de OSINT para coleta de informações públicas sobre alvos, como dados de redes sociais, histórico de IPs, etc. |
+| urlscan.io             | Ferramenta de análise de sites para verificar a privacidade e segurança de um domínio.                                   | 
+| abuse.ch               | Recurso que fornece dados públicos sobre ameaças, como IPs maliciosos e domínios relacionados a malware.                 | 
+| crt.sh                 | Banco de dados de certificados SSL/TLS, útil para investigar a infraestrutura de um alvo.                                |
+| ctsearch.entrust.com   | Outra fonte de dados públicos para buscar certificados SSL/TLS de domínios.                                              | 
+| PasteHunter            | Busca e alerta para dados vazados em dumps públicos de dados como senhas e informações pessoais.                         | 
 </div> 
 </details>
 
