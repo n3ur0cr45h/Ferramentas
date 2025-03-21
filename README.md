@@ -32,7 +32,16 @@
 | ELK                     | Conjunto para coleta, análise e visualização de dados, monitoramento de segurança.         |
 | QRadar                  | Sistema SIEM para detecção, resposta e análise de ameaças de segurança.                    | 
 | Frida                   | Framework de injeção de scripts em tempo real, para análise e engenharia reversa de apps   |
-
+| [SRIHash](https://www.srihash.org/) | Ferramenta para verificação de hash, usada para segurança. |
+| [Hashcat - Exemplo de Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) | Exemplo de uso do Hashcat para quebra de hashes. |
+| Hashcat | Ferramenta avançada para cracking de hashes. |
+| John The Ripper (Unshadow, Zip2John, RAR2John, SSH2John, Gpg2john) | Conjunto de ferramentas para quebra de senhas, cada uma focada em tipos específicos de hashes ou arquivos. |
+| Hash Suite | Ferramenta para análise e cracking de hashes. |
+| RSATOOL | Ferramenta para análise e quebra de criptografia RSA. |
+| [RSA Encryption - MuirlandOracle](https://muirlandoracle.co.uk/2020/01/29/rsa-encryption/) | Artigo sobre criptografia RSA, útil para análise de segurança. |
+| [DigiCert Help](https://www.digicert.com/help/) | Ferramenta online para verificação de certificados SSL/TLS. |
+| SSH-keygen | Ferramenta para gerar pares de chaves SSH, essencial para autenticação segura em redes. |
+| Gpg4win - Criptografia para Windows | Ferramenta de criptografia de e-mails e arquivos para Windows. |
 
 /div> 
 </details>
@@ -72,6 +81,10 @@
 | crt.sh                 | Banco de dados de certificados SSL/TLS, útil para investigar a infraestrutura de um alvo.                                |
 | ctsearch.entrust.com   | Outra fonte de dados públicos para buscar certificados SSL/TLS de domínios.                                              | 
 | PasteHunter            | Busca e alerta para dados vazados em dumps públicos de dados como senhas e informações pessoais.                         | 
+| Extensões de Modificação de Cookie | Ferramentas que permitem modificar cookies do navegador, geralmente usadas para testar ou alterar dados privados. |
+| Chrome Cookies View | Ferramenta para visualizar cookies do Chrome de maneira formatada. |
+| Chrome Pass - Descriptografa Senhas do Chrome | Ferramenta para descriptografar senhas armazenadas no navegador Chrome. |
+| ESEDatabaseView | Ferramenta para visualizar dados de bancos de dados ESE (Edge/Windows). |
 
 </div> 
 </details>
@@ -101,6 +114,16 @@
 | Gobuster               | Outra ferramenta de brute force para descobrir subdomínios e diretórios em servidores web.         | 
 | requestbin.com         | Serviço para coletar e logar requisições HTTP para análise posterior.                              | 
 | Dependency-Check OWASP | Ferramenta para detectar bibliotecas e dependências vulneráveis em projetos de software.           |
+| [Hashes - Decrypt Hash](https://hashes.com/en/decrypt/hash) | Ferramenta para descriptografar diferentes tipos de hash. |
+| [CrackStation](https://crackstation.net/) | Ferramenta online para quebra de senhas usando ataques de dicionário. |
+| GetTwitterID | Ferramenta para coletar o ID de usuário do Twitter. |
+| Chrome Cache | Ferramenta para visualizar e transformar dados do cache do Chrome em um formato legível. |
+| Internet Explorer Cache Viewer | Visualizador de cache para o navegador Internet Explorer. |
+| MZCacheView | Visualizador de cache para o Mozilla Firefox. |
+| MZCookiesView | Ferramenta para visualizar cookies do Mozilla Firefox. |
+| MZHistoryView | Ferramenta para visualizar o histórico de navegação do Mozilla Firefox. |
+| Password Fox | Ferramenta para descriptografar senhas salvas no Firefox. |
+| Favorites View | Ferramenta para visualizar os favoritos do Mozilla Firefox. |
 
 </div> 
 </details>
@@ -124,7 +147,9 @@
 | Sublist3r              | Outra ferramenta para reconhecimento e brute force de subdomínios.                          |
 | Nbtscan                | Scanner de rede para descobrir computadores e serviços utilizando o protocolo NetBIOS.      |
 | Enum4Linux             | Ferramenta para enumeração de informações em redes Linux, como usuários e compartilhamentos.|
-| | Smtp-user-enum       | Ferramenta de enumeração de usuários válidos em servidores SMTP, coleta de dados de e-mail  |
+| Smtp-user-enum       | Ferramenta de enumeração de usuários válidos em servidores SMTP, coleta de dados de e-mail  |
+| [Base64 Encode](https://www.base64encode.org/) | Ferramenta para codificar dados em Base64. |
+| [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database) | Banco de dados de favicons, útil para identificar frameworks e tecnologias usadas em sites. |
 
 </div> 
 </details>
@@ -141,6 +166,8 @@
 | -----------------------| ------------------------------------------------------------------------------------|
 | Pastebin               | Armazenamento e compartilhamento de código e texto.                                 |
 | Dontpad                | Compartilhamento de texto online                                                    |
+| HexEditor - Editar Hex | Editor de arquivos binários em formato hexadecimal, usado para modificação de dados. |
+| [SecLists - Wordlists](https://github.com/danielmiessler/SecLists) | Coleção de listas de palavras, usada em testes de força bruta e cracking de senhas. |
 
 </div> 
 </details>
