@@ -56,6 +56,24 @@
 | Unified Kill Chain                              | Evolução do modelo Cyber Kill Chain, focando em uma abordagem unificada para responder a ameaças cibernéticas.                                                   |
 | Diamond Model                                    | Modelo para análise de incidentes de segurança, com foco em adversários, capacidades, infraestrutura e vítimas.                                                   |
 | MITRE                                            | Framework e estrutura de resposta a incidentes de segurança cibernética, amplamente utilizado para detectar e mitigar ameaças.                                    |
+| REMNUX - Reverse Engineering Malware Linux | Conjunto de ferramentas para análise de malware em sistemas Linux, utilizado para engenharia reversa e detecção de comportamentos maliciosos.           |
+| Online Cuckoo Sandbox          | Ambiente de sandbox online para analisar e estudar o comportamento de arquivos e URLs suspeitos.                                                      |
+| Online CAPE Sandbox            | Sandbox online para análise de arquivos e detecção de malwares, utilizado para entender comportamentos de ameaças.                                      |
+| Any.run                        | Ferramenta de análise interativa de malware em tempo real, usada para monitorar comportamentos de arquivos e executáveis em ambiente controlado.          |
+| Intezer                        | Plataforma de análise de malware que compara o código de arquivos suspeitos com uma base de dados de amostras conhecidas para detectar ameaças.          |
+| Hybrid Analysis                | Plataforma de sandbox que oferece análise de arquivos suspeitos em diversos ambientes, com resultados detalhados sobre o comportamento de malwares.        |
+| Cuckoo Sandbox                 | Ferramenta open-source de sandboxing para análise automatizada de arquivos e URLs suspeitos, monitorando o comportamento em um ambiente virtualizado.      |
+| https://hybrid-analysis.com/    | Plataforma de análise de malware que executa arquivos suspeitos em ambientes controlados, fornecendo relatórios detalhados.                               |
+| https://www.virustotal.com/gui/home/upload | Ferramenta que realiza a análise de arquivos e URLs, utilizando múltiplos antivírus para detectar malwares.                                                |
+| Dependency Walker (depends)    | Ferramenta para análise de dependências de bibliotecas e módulos em executáveis no Windows.                                                             |
+| PeID                           | Ferramenta de identificação de malware que detecta e analisa executáveis para encontrar o tipo de compactação e ofuscação.                             |
+| PE Explorer                    | Ferramenta para análise e exploração de arquivos PE (Portable Executable) no Windows, incluindo funções de descompactação e visualização de recursos.     |
+| PEview                         | Visualizador de arquivos PE, utilizado para análise de executáveis no Windows, revelando informações como cabeçalhos e seções.                          |
+| ResourceHacker                 | Ferramenta para modificar recursos em arquivos executáveis, como ícones, imagens e menus, usada em engenharia reversa e análise de malware.             |
+| IDA Freeware                   | Ferramenta de engenharia reversa popular, usada para análise de malware e outros binários em sistemas Windows e Linux.                                    |
+| WinDbg                         | Depurador da Microsoft para análise e depuração de programas e drivers no Windows, frequentemente utilizado em análise de malware.                       |
+| HashTab                        | Ferramenta para calcular e verificar hashes de arquivos, facilitando a comparação e análise de amostras de malware.                                       |
+
 
 </div> 
 </details>
@@ -101,6 +119,11 @@
 | ESEDatabaseView | Ferramenta para visualizar dados de bancos de dados ESE (Edge/Windows). |
 | SpoofApp                                         | Aplicativo para spoofing de chamadas telefônicas e mensagens, utilizado em testes de segurança e privacidade.                                                    |
 | SpoofCard                                        | Ferramenta para spoofing de chamadas e SMS, útil para testar a privacidade e segurança de comunicações móveis.                                                    |
+| https://toolbox.googleapps.com/apps/messageheader/analyzeheader | Ferramenta online para analisar cabeçalhos de e-mails, ajudando a identificar remetentes falsos e manipulação de mensagens.                             |
+| https://mha.azurewebsites.net/ | Ferramenta online para análise de cabeçalhos de e-mails, utilizada para investigar a origem e integridade das mensagens.                               |
+| https://mailheader.org/        | Serviço online para análise de cabeçalhos de e-mails, útil para investigar fraudes e identificar e-mails de phishing.                                    |
+| PhishTool                      | Ferramenta que ajuda a identificar e-mails de phishing, permitindo a análise detalhada de mensagens suspeitas.                                           |
+
 
 
 </div> 
@@ -160,6 +183,7 @@
 | OSQuery                                          | Ferramenta que transforma o sistema operacional em um banco de dados relacional para coleta de informações via queries SQL.                                       |
 | RegRipper                                        | Ferramenta especializada na análise de registros do Windows, amplamente usada em investigações forenses.                                                         |
 | EnCase Forensic                                 | Ferramenta forense utilizada para análise de discos rígidos, recuperação de dados e investigação de incidentes de segurança.                                      |
+| ZAP Proxy - DAST               | Ferramenta de teste de segurança dinâmica (DAST), usada para detectar vulnerabilidades em aplicativos web e APIs, realizando testes automatizados de segurança. |
 
 
 </div> 
@@ -195,6 +219,12 @@
 | Scapy                                           | Ferramenta de criação e manipulação de pacotes de rede, útil para testar e explorar redes.                                                                     |
 | MISP                                            | Plataforma de compartilhamento de informações de ameaças cibernéticas, usada para gerar inteligência de ameaças.                                                  |
 | OpenCTI                                          | Plataforma de inteligência de ameaças cibernéticas para a integração de dados de ameaças e análise colaborativa.                                                   |
+| SELinux                        | Framework de segurança para sistemas Linux, proporcionando controle de acesso obrigatório para limitar o impacto de brechas de segurança.                |
+| AppArmor                       | Sistema de controle de acesso baseado em perfis de segurança, utilizado em sistemas Linux para isolar e proteger aplicativos contra ações maliciosas.     |
+| Netfilter                      | Framework de filtragem de pacotes em sistemas Linux, utilizado para controlar o tráfego de rede e aplicar regras de firewall.                           |
+| Iptables                       | Ferramenta de filtragem de pacotes de rede no Linux, utilizada para configurar regras de firewall e proteger a rede.                                     |
+| Nftables                       | Substituto do Iptables, oferece uma estrutura mais flexível e eficiente para a filtragem de pacotes e controle de tráfego de rede em sistemas Linux.     |
+
 
 </div> 
 </details>
@@ -239,6 +269,9 @@
 | Volatility - Framework para resposta a incidentes | Framework de análise de memória para investigações de incidentes de segurança, com foco em malware e ataques avançados.                                          |
 | VOLIX II - Frontend para o Volatility            | Interface gráfica para o Volatility, facilitando a análise de memória em investigações forenses.                                                                |
 | Magnet Forensics AXIOM - Decryptor               | Ferramenta para descriptografar dados durante investigações forenses, com suporte para diversos tipos de criptografia.                                           |
+| Psalm - SAST - VS Code         | Ferramenta de análise estática de segurança (SAST) integrada ao VS Code, usada para identificar vulnerabilidades em código durante o desenvolvimento.      |
+| Sempgrep - SAST - VS Code      | Ferramenta de análise estática para segurança de código-fonte, integrada ao VS Code, útil para detectar falhas de segurança enquanto o código é escrito.    |
+
 
 
 </div> 
