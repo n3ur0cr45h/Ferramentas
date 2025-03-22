@@ -73,6 +73,27 @@
 | IDA Freeware                   | Ferramenta de engenharia reversa popular, usada para análise de malware e outros binários em sistemas Windows e Linux.                                    |
 | WinDbg                         | Depurador da Microsoft para análise e depuração de programas e drivers no Windows, frequentemente utilizado em análise de malware.                       |
 | HashTab                        | Ferramenta para calcular e verificar hashes de arquivos, facilitando a comparação e análise de amostras de malware.                                       |
+| Gophish                       | Plataforma de simulação de phishing, utilizada para treinar e testar a resposta de usuários contra ataques de phishing.                                |
+| Zed Attack Proxy (ZAP)        | Ferramenta de teste de segurança dinâmica (DAST), usada para detectar vulnerabilidades em aplicativos web e APIs.                                       |
+| DirBuster                     | Ferramenta para realizar ataques de força bruta em diretórios e arquivos em servidores web, buscando falhas de segurança.                              |
+| Gobuster                      | Ferramenta para realizar ataques de força bruta em subdomínios e diretórios, utilizada para auditoria de segurança em web servers.                     |
+| Wfuzz                         | Ferramenta para realizar fuzzing de entradas em aplicativos web, buscando vulnerabilidades como injeção de código e falhas de segurança.              |
+| Nmap                          | Ferramenta de escaneamento de redes, amplamente utilizada para identificar hosts, serviços e vulnerabilidades em uma rede.                               |
+| Masscan                       | Ferramenta de escaneamento de redes de alta performance, projetada para realizar varreduras rápidas de grandes redes.                                   |
+| Shodan                        | Motor de busca para dispositivos conectados à internet, útil para identificar sistemas vulneráveis e expostos à rede.                                  |
+| Censys                        | Plataforma de pesquisa de segurança, fornecendo informações detalhadas sobre a infraestrutura de internet e dispositivos conectados.                   |
+| Project Sonar                 | Projeto que coleta dados sobre a infraestrutura da web e disponibiliza informações sobre serviços e dispositivos conectados à rede.                    |
+| The Harvester                 | Ferramenta de coleta de informações sobre e-mails, subdomínios e outras informações públicas, útil em testes de segurança.                              |
+| Gitrob                        | Ferramenta para encontrar segredos e credenciais expostas em repositórios do GitHub.                                                                  |
+| TruffleHog                    | Ferramenta que escaneia repositórios Git em busca de segredos e chaves API expostas.                                                                  |
+| Wappalyzer                    | Ferramenta que identifica as tecnologias usadas em websites, como frameworks, CMS, bibliotecas, etc.                                                   |
+| BuiltWith                     | Ferramenta que identifica as tecnologias utilizadas em um site, fornecendo dados detalhados sobre a infraestrutura web.                                 |
+| Stackshare                    | Plataforma para análise e compartilhamento de stacks de tecnologia usadas por empresas e desenvolvedores.                                              |
+| Pastebin                      | Site de compartilhamento de código e dados, frequentemente utilizado para vazamentos de informações e análise de segurança.                            |
+| PasteHunter                   | Ferramenta para caçar pastas e dados vazados no Pastebin e sites semelhantes.                                                                         |
+| WayBack Machine               | Ferramenta que permite acessar versões antigas de websites através de snapshots armazenados ao longo do tempo.                                          |
+| FoxyProxy                     | Ferramenta que facilita o gerenciamento de proxies em navegadores, útil para anonimizar e redirecionar o tráfego de rede.                              |
+
 
 
 </div> 
@@ -184,7 +205,14 @@
 | RegRipper                                        | Ferramenta especializada na análise de registros do Windows, amplamente usada em investigações forenses.                                                         |
 | EnCase Forensic                                 | Ferramenta forense utilizada para análise de discos rígidos, recuperação de dados e investigação de incidentes de segurança.                                      |
 | ZAP Proxy - DAST               | Ferramenta de teste de segurança dinâmica (DAST), usada para detectar vulnerabilidades em aplicativos web e APIs, realizando testes automatizados de segurança. |
-
+| Sublist3r                     | Ferramenta para enumeração de subdomínios, usada para coletar informações sobre um domínio e suas infraestruturas web.                                |
+| SubBrute                      | Ferramenta para realizar ataques de força bruta em subdomínios, explorando listas de palavras para identificar subdomínios de uma organização.         |
+| Amass                         | Ferramenta para descoberta e enumeração de subdomínios, coletando dados para análise de segurança em infraestruturas web.                               |
+| GoBuster                      | Ferramenta para escanear diretórios e subdomínios, utilizada em testes de penetração e auditoria de segurança.                                          |
+| Nmap                          | Ferramenta de escaneamento de redes, amplamente utilizada para identificar hosts, serviços e vulnerabilidades em uma rede.                               |
+| Masscan                       | Ferramenta de escaneamento de redes de alta performance, projetada para realizar varreduras rápidas de grandes redes.                                   |
+| EyeWitness                    | Ferramenta para capturar e analisar imagens de páginas web de forma automatizada, útil em auditorias de segurança.                                      |
+| Snapper                       | Ferramenta para capturar imagens de telas e páginas web, usada para análise visual durante a investigação de segurança.                                  |
 
 </div> 
 </details>
@@ -224,6 +252,11 @@
 | Netfilter                      | Framework de filtragem de pacotes em sistemas Linux, utilizado para controlar o tráfego de rede e aplicar regras de firewall.                           |
 | Iptables                       | Ferramenta de filtragem de pacotes de rede no Linux, utilizada para configurar regras de firewall e proteger a rede.                                     |
 | Nftables                       | Substituto do Iptables, oferece uma estrutura mais flexível e eficiente para a filtragem de pacotes e controle de tráfego de rede em sistemas Linux.     |
+| iPerf / iPerf3                 | Ferramenta para medição de desempenho de redes, útil para testar largura de banda e desempenho de conexões em redes locais ou remotas.                  |
+| DNS Bench                      | Ferramenta para testar e comparar o desempenho de servidores DNS, útil para análise e otimização de conexões de rede.                                    |
+| Virtual Here                   | Ferramenta que permite o uso remoto de dispositivos USB, facilitando o acesso a dispositivos físicos de locais diferentes.                               |
+| TCP View                       | Ferramenta para monitoramento de conexões TCP/IP, exibindo informações detalhadas sobre processos e conexões de rede em tempo real.                    |
+
 
 
 </div> 
@@ -269,9 +302,55 @@
 | Volatility - Framework para resposta a incidentes | Framework de análise de memória para investigações de incidentes de segurança, com foco em malware e ataques avançados.                                          |
 | VOLIX II - Frontend para o Volatility            | Interface gráfica para o Volatility, facilitando a análise de memória em investigações forenses.                                                                |
 | Magnet Forensics AXIOM - Decryptor               | Ferramenta para descriptografar dados durante investigações forenses, com suporte para diversos tipos de criptografia.                                           |
-| Psalm - SAST - VS Code         | Ferramenta de análise estática de segurança (SAST) integrada ao VS Code, usada para identificar vulnerabilidades em código durante o desenvolvimento.      |
-| Sempgrep - SAST - VS Code      | Ferramenta de análise estática para segurança de código-fonte, integrada ao VS Code, útil para detectar falhas de segurança enquanto o código é escrito.    |
+| Psalm          | Ferramenta de análise estática de segurança (SAST) integrada ao VS Code, usada para identificar vulnerabilidades em código durante o desenvolvimento.      |
+| Sempgrep      | Ferramenta de análise estática para segurança de código-fonte, integrada ao VS Code, útil para detectar falhas de segurança enquanto o código é escrito.    |
+| HDDScan                       | Ferramenta de diagnóstico de discos rígidos, útil para monitorar o estado de saúde do HD e realizar testes de desempenho e falhas.                       |
+| Memtest86                     | Ferramenta para testar a memória RAM de sistemas, identificando falhas e problemas de hardware.                                                         |
+| OpenHardwareMonitor           | Ferramenta para monitoramento de hardware, fornecendo informações sobre temperatura, voltagem, carga e status de sensores no computador.                 |
+| Pestudio                      | Ferramenta para análise de malware e engenharia reversa de arquivos executáveis, permitindo investigar as características e comportamentos de arquivos.  |
+| Process Explorer               | Ferramenta para análise de processos no sistema Windows, permitindo monitorar e investigar atividades de processos em tempo real.                        |
+| Ultimate Windows Tweaker       | Ferramenta para otimização e personalização do sistema Windows, com várias opções de configuração para melhorar o desempenho.                           |
+| OOSU10                         | Ferramenta para ajustar configurações do sistema operacional Windows 10, incluindo otimizações de segurança e privacidade.                               |
+| Autoruns                       | Ferramenta para gerenciar e controlar os programas que são executados automaticamente no Windows.                                                      |
+| HxD                            | Editor hexadecimal para análise e modificação de arquivos binários, usado em engenharia reversa e análise forense.                                      |
 
+
+
+
+</div> 
+</details>
+
+----
+
+
+<details>
+  <summary><b> Computação Forense </b></summary>
+<div align="Center"> 
+
+| Título                        | Descrição                                                                                                                                              |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Paladin Sumuri - Linux Forensics | Ferramenta forense para análise de dados em sistemas Linux, com uma variedade de ferramentas para investigação de incidentes.                         |
+| Autopsy                       | Conjunto de ferramentas forenses, utilizado para análise e investigação de sistemas de arquivos e imagens forenses.                                      |
+| SIFT Workstation              | Máquina virtual baseada em Ubuntu que contém um conjunto de ferramentas forenses para análise de sistemas e dados.                                      |
+| CAINE                         | Distribuição Linux que oferece uma interface gráfica e ferramentas para análise forense digital.                                                     |
+| SMART for Linux               | Ferramenta de análise SMART de dispositivos de armazenamento em sistemas Linux, utilizada para verificar a saúde dos discos rígidos.                   |
+| X Ways Forensics              | Ferramenta forense para análise detalhada de sistemas de arquivos e recuperação de dados.                                                             |
+| EnCase                        | Ferramenta forense amplamente utilizada para análise e recuperação de dados em investigações digitais.                                                  |
+| Forensic Toolkit              | Conjunto de ferramentas forenses usado para análise, recuperação e preservação de dados em investigações digitais.                                      |
+| Forensic Explorer             | Ferramenta de análise forense usada para investigar dispositivos de armazenamento, recuperando dados e criando relatórios detalhados.                   |
+| Belkasoft Evidence Center     | Ferramenta forense para coleta, análise e relatórios de evidências digitais em uma variedade de dispositivos e formatos.                                 |
+| Axiom                         | Ferramenta forense para aquisição e análise de dados, usada para investigar incidentes e realizar exames de dispositivos digitais.                      |
+| FTK Imager                    | Ferramenta para criação de imagens forenses e análise de dados, permitindo a recuperação de arquivos e a investigação de sistemas.                      |
+| Redline / Mandiant            | Ferramenta para análise e aquisição forense de dados, amplamente utilizada para investigação de incidentes e resposta a ameaças.                       |
+| MDD / Mantech                 | Ferramenta de captura e análise de dados forenses, especialmente útil para investigação de memória e dispositivos de armazenamento.                      |
+| Memoryze / Mandiant           | Ferramenta de coleta e análise de dados de memória para investigações forenses, útil em resposta a incidentes e análise de malware.                      |
+| Windows toolkit / Moonsols    | Conjunto de ferramentas forenses para extração e análise de dados de sistemas Windows, com foco em segurança e integridade.                            |
+| WinPreFetchView / Nirsoft     | Ferramenta para visualizar dados de pré-carregamento de aplicativos no Windows, útil em investigações forenses.                                          |
+| Forensics Prefetch-Parser / Redwolf | Ferramenta para análise de dados de pré-carregamento de aplicativos em sistemas Windows, usada em investigações forenses.                               |
+| PSLogList                     | Ferramenta para extrair logs de eventos do Windows, utilizada em investigações forenses e auditorias de segurança.                                        |
+| Log Parser                    | Ferramenta para processar e analisar logs de eventos em sistemas Windows, útil em investigações e auditorias.                                           |
+| RegRipper                     | Ferramenta para análise de registros do Windows, amplamente utilizada em investigações forenses para extrair e examinar informações de sistemas.         |
+| Windows Register Decoder      | Ferramenta para análise e decodificação de registros do Windows, útil para investigar atividades e incidentes em sistemas Windows.                      |
 
 
 </div> 
