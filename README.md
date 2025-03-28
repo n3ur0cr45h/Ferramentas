@@ -147,7 +147,7 @@
 | ESEDatabaseView | Ferramenta para visualizar dados de bancos de dados ESE (Edge/Windows). |
 | SpoofApp                                         | Aplicativo para spoofing de chamadas telefônicas e mensagens, utilizado em testes de segurança e privacidade.                                                    |
 | SpoofCard                                        | Ferramenta para spoofing de chamadas e SMS, útil para testar a privacidade e segurança de comunicações móveis.                                                    |
-| https://toolbox.googleapps.com/apps/messageheader/analyzeheader | Ferramenta online para analisar cabeçalhos de e-mails, ajudando a identificar remetentes falsos e manipulação de mensagens.                             |
+| [AnalyzeHeader](https://toolbox.googleapps.com/apps/messageheader/analyzeheader) | Ferramenta online para analisar cabeçalhos de e-mails, ajudando a identificar remetentes falsos e manipulação de mensagens.                             |
 | https://mha.azurewebsites.net/ | Ferramenta online para análise de cabeçalhos de e-mails, utilizada para investigar a origem e integridade das mensagens.                               |
 | https://mailheader.org/        | Serviço online para análise de cabeçalhos de e-mails, útil para investigar fraudes e identificar e-mails de phishing.                                    |
 | PhishTool                      | Ferramenta que ajuda a identificar e-mails de phishing, permitindo a análise detalhada de mensagens suspeitas.                                           |
