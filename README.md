@@ -78,28 +78,28 @@
 
 | Título                        | Descrição                                                                                                                                              |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Paladin Sumuri - Linux Forensics | Ferramenta forense para análise de dados em sistemas Linux, com uma variedade de ferramentas para investigação de incidentes.                         |
-| Autopsy                       | Conjunto de ferramentas forenses, utilizado para análise e investigação de sistemas de arquivos e imagens forenses.                                      |
-| SIFT Workstation              | Máquina virtual baseada em Ubuntu que contém um conjunto de ferramentas forenses para análise de sistemas e dados.                                      |
-| CAINE                         | Distribuição Linux que oferece uma interface gráfica e ferramentas para análise forense digital.                                                     |
+| Paladin Sumuri - Linux Forensics | Ferramenta forense para análise de dados em sistemas Linux, com uma variedade de ferramentas para investigação de incidentes.                       |
+| Autopsy                       | Conjunto de ferramentas forenses, utilizado para análise e investigação de sistemas de arquivos e imagens forenses.                                    |
+| SIFT Workstation              | Máquina virtual baseada em Ubuntu que contém um conjunto de ferramentas forenses para análise de sistemas e dados.                                     |
+| CAINE                         | Distribuição Linux que oferece uma interface gráfica e ferramentas para análise forense digital.                                                       |
 | SMART for Linux               | Ferramenta de análise SMART de dispositivos de armazenamento em sistemas Linux, utilizada para verificar a saúde dos discos rígidos.                   |
-| X Ways Forensics              | Ferramenta forense para análise detalhada de sistemas de arquivos e recuperação de dados.                                                             |
-| EnCase                        | Ferramenta forense amplamente utilizada para análise e recuperação de dados em investigações digitais.                                                  |
-| Forensic Toolkit              | Conjunto de ferramentas forenses usado para análise, recuperação e preservação de dados em investigações digitais.                                      |
-| Forensic Explorer             | Ferramenta de análise forense usada para investigar dispositivos de armazenamento, recuperando dados e criando relatórios detalhados.                   |
-| Belkasoft Evidence Center     | Ferramenta forense para coleta, análise e relatórios de evidências digitais em uma variedade de dispositivos e formatos.                                 |
-| Axiom                         | Ferramenta forense para aquisição e análise de dados, usada para investigar incidentes e realizar exames de dispositivos digitais.                      |
-| FTK Imager                    | Ferramenta para criação de imagens forenses e análise de dados, permitindo a recuperação de arquivos e a investigação de sistemas.                      |
+| X Ways Forensics              | Ferramenta forense para análise detalhada de sistemas de arquivos e recuperação de dados.                                                              |
+| EnCase                        | Ferramenta forense amplamente utilizada para análise e recuperação de dados em investigações digitais.                                                 |
+| Forensic Toolkit              | Conjunto de ferramentas forenses usado para análise, recuperação e preservação de dados em investigações digitais.                                     |
+| Forensic Explorer             | Ferramenta de análise forense usada para investigar dispositivos de armazenamento, recuperando dados e criando relatórios detalhados.                  |
+| Belkasoft Evidence Center     | Ferramenta forense para coleta, análise e relatórios de evidências digitais em uma variedade de dispositivos e formatos.                               |
+| Axiom                         | Ferramenta forense para aquisição e análise de dados, usada para investigar incidentes e realizar exames de dispositivos digitais.                     |
+| FTK Imager                    | Ferramenta para criação de imagens forenses e análise de dados, permitindo a recuperação de arquivos e a investigação de sistemas.                     |
 | Redline / Mandiant            | Ferramenta para análise e aquisição forense de dados, amplamente utilizada para investigação de incidentes e resposta a ameaças.                       |
-| MDD / Mantech                 | Ferramenta de captura e análise de dados forenses, especialmente útil para investigação de memória e dispositivos de armazenamento.                      |
-| Memoryze / Mandiant           | Ferramenta de coleta e análise de dados de memória para investigações forenses, útil em resposta a incidentes e análise de malware.                      |
+| MDD / Mantech                 | Ferramenta de captura e análise de dados forenses, especialmente útil para investigação de memória e dispositivos de armazenamento.                    |
+| Memoryze / Mandiant           | Ferramenta de coleta e análise de dados de memória para investigações forenses, útil em resposta a incidentes e análise de malware.                    |
 | Windows toolkit / Moonsols    | Conjunto de ferramentas forenses para extração e análise de dados de sistemas Windows, com foco em segurança e integridade.                            |
-| WinPreFetchView / Nirsoft     | Ferramenta para visualizar dados de pré-carregamento de aplicativos no Windows, útil em investigações forenses.                                          |
-| Forensics Prefetch-Parser / Redwolf | Ferramenta para análise de dados de pré-carregamento de aplicativos em sistemas Windows, usada em investigações forenses.                               |
-| PSLogList                     | Ferramenta para extrair logs de eventos do Windows, utilizada em investigações forenses e auditorias de segurança.                                        |
-| Log Parser                    | Ferramenta para processar e analisar logs de eventos em sistemas Windows, útil em investigações e auditorias.                                           |
-| RegRipper                     | Ferramenta para análise de registros do Windows, amplamente utilizada em investigações forenses para extrair e examinar informações de sistemas.         |
-| Windows Register Decoder      | Ferramenta para análise e decodificação de registros do Windows, útil para investigar atividades e incidentes em sistemas Windows.                      |
+| WinPreFetchView / Nirsoft     | Ferramenta para visualizar dados de pré-carregamento de aplicativos no Windows, útil em investigações forenses.                                        |
+| Forensics Prefetch-Parser / Redwolf | Ferramenta para análise de dados de pré-carregamento de aplicativos em sistemas Windows, usada em investigações forenses.                        |
+| PSLogList                     | Ferramenta para extrair logs de eventos do Windows, utilizada em investigações forenses e auditorias de segurança.                                     |
+| Log Parser                    | Ferramenta para processar e analisar logs de eventos em sistemas Windows, útil em investigações e auditorias.                                          |
+| RegRipper                     | Ferramenta para análise de registros do Windows, amplamente utilizada em investigações forenses para extrair e examinar informações de sistemas.       |
+| Windows Register Decoder      | Ferramenta para análise e decodificação de registros do Windows, útil para investigar atividades e incidentes em sistemas Windows.                     |
 
 
 </div> 
@@ -142,15 +142,15 @@
 | ctsearch.entrust.com   | Outra fonte de dados públicos para buscar certificados SSL/TLS de domínios.                                              | 
 | PasteHunter            | Busca e alerta para dados vazados em dumps públicos de dados como senhas e informações pessoais.                         | 
 | Extensões de Modificação de Cookie | Ferramentas que permitem modificar cookies do navegador, geralmente usadas para testar ou alterar dados privados. |
-| Chrome Cookies View | Ferramenta para visualizar cookies do Chrome de maneira formatada. |
-| Chrome Pass - Descriptografa Senhas do Chrome | Ferramenta para descriptografar senhas armazenadas no navegador Chrome. |
-| ESEDatabaseView | Ferramenta para visualizar dados de bancos de dados ESE (Edge/Windows). |
-| SpoofApp                                         | Aplicativo para spoofing de chamadas telefônicas e mensagens, utilizado em testes de segurança e privacidade.                                                    |
-| SpoofCard                                        | Ferramenta para spoofing de chamadas e SMS, útil para testar a privacidade e segurança de comunicações móveis.                                                    |
-| [AnalyzeHeader](https://toolbox.googleapps.com/apps/messageheader/analyzeheader) | Ferramenta online para analisar cabeçalhos de e-mails, ajudando a identificar remetentes falsos e manipulação de mensagens.                             |
-| https://mha.azurewebsites.net/ | Ferramenta online para análise de cabeçalhos de e-mails, utilizada para investigar a origem e integridade das mensagens.                               |
-| https://mailheader.org/        | Serviço online para análise de cabeçalhos de e-mails, útil para investigar fraudes e identificar e-mails de phishing.                                    |
-| PhishTool                      | Ferramenta que ajuda a identificar e-mails de phishing, permitindo a análise detalhada de mensagens suspeitas.                                           |
+| Chrome Cookies View    | Ferramenta para visualizar cookies do Chrome de maneira formatada.                                                       |
+| Chrome Pass            | Ferramenta para descriptografar senhas armazenadas no navegador Chrome.                                                  |
+| ESEDatabaseView        | Ferramenta para visualizar dados de bancos de dados ESE (Edge/Windows).                                                  |
+| SpoofApp               | Aplicativo para spoofing de chamadas telefônicas e mensagens, utilizado em testes de segurança e privacidade.            |
+| SpoofCard              | Ferramenta para spoofing de chamadas e SMS, útil para testar a privacidade e segurança de comunicações móveis.           |
+| [AnalyzeHeader](https://toolbox.googleapps.com/apps/messageheader/analyzeheader) | Ferramenta online para analisar cabeçalhos de e-mails, ajudando a identificar remetentes falsos e manipulação de mensagens.|
+| https://mha.azurewebsites.net/ | Ferramenta online para análise de cabeçalhos de e-mails, utilizada para investigar a origem e integridade das mensagens.   |
+| https://mailheader.org/| Serviço online para análise de cabeçalhos de e-mails, útil para investigar fraudes e identificar e-mails de phishing.    |
+| PhishTool              | Ferramenta que ajuda a identificar e-mails de phishing, permitindo a análise detalhada de mensagens suspeitas.           |
 
 
 
