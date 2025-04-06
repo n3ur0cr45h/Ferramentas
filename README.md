@@ -165,49 +165,49 @@
 
 <br>
 
-| Título                 | Descrição                                                                           |
-| -----------------------| ------------------------------------------------------------------------------------|
-| Pastebin               | Armazenamento e compartilhamento de código e texto.                                 |
-| Dontpad                | Compartilhamento de texto online                                                    |
-| HexEditor - Editar Hex | Editor de arquivos binários em formato hexadecimal, usado para modificação de dados. |
+| Título                 | Descrição                                                                                                                       |
+| -----------------------| --------------------------------------------------------------------------------------------------------------------------------|
+| Pastebin               | Armazenamento e compartilhamento de código e texto.                                                                             |
+| Dontpad                | Compartilhamento de texto online                                                                                                |
+| HexEditor - Editar Hex | Editor de arquivos binários em formato hexadecimal, usado para modificação de dados.                                            | 
 | [SecLists - Wordlists](https://github.com/danielmiessler/SecLists) | Coleção de listas de palavras, usada em testes de força bruta e cracking de senhas. |
-| Hydra                                           | Ferramenta de força bruta para ataque de senhas em diversos protocolos.                                                                                        |
-| Kerbrute - Brute force discovery of users       | Ferramenta para descoberta de usuários e senhas em redes Windows com ataque de força bruta.                                                                    |
-| Enum4Linux                                      | Ferramenta de enumeração de informações sobre sistemas Linux, útil para auditorias de segurança.                                                               |
-| LinPEAS                                          | Script de coleta de informações para a análise de segurança em sistemas Linux.                                                                                |
-| LinEnum - Bash script que realiza comandos de escalamento | Script Bash que executa uma série de comandos para auxiliar na escalada de privilégios em sistemas Linux.                                                      |
-| PowerUp - Windows                               | Script PowerShell que automatiza a exploração de falhas em sistemas Windows para escalada de privilégios.                                                        |
-| GNU Privacy Guard - GPG                         | Ferramenta para criptografia simétrica e assimétrica, utilizado para proteção de dados.                                                                        |
-| OpenSSL Project                                 | Ferramenta que implementa criptografia simétrica e assimétrica, amplamente utilizada em diversos sistemas de segurança.                                          |
-| grub2-mkpasswd-pbkdf2                           | Utilitário para criar senhas seguras para o GRUB Bootloader.                                                                                                  |
-| LUKS (Linux Unified Key Setup)                  | Sistema de criptografia de disco completo para sistemas Linux, garantindo a segurança dos dados armazenados.                                                    |
-| Migrador de perfis                              | Ferramenta para migração de perfis de usuário entre máquinas, útil para análise forense e recuperação de dados.                                                 |
-| Autopsy                                          | Ferramenta forense para análise de sistemas de arquivos e extração de evidências digitais.                                                                     |
-| FTK Imager                                      | Ferramenta forense para coleta de dados, incluindo extração de registros e imagens de discos rígidos.                                                           |
-| PALADIN                                          | Ambiente forense para análise de dados e evidências digitais, com ferramentas para investigação.                                                               |
-| WinFE                                            | Windows Forensic Environment, uma versão do Windows usada para investigação forense sem alterar o sistema original.                                              |
-| Mini-WinFE                                       | Versão compacta do WinFE, otimizada para uso em investigações forenses.                                                                                         |
-| X-Ways                                           | Ferramenta forense avançada para análise de dados e recuperação de informações, também permite criar uma linha do tempo.                                          |
-| FTK Imager - Pode fazer Dump de RAM              | Versão do FTK Imager que suporta a extração e análise de dumps de memória RAM em investigações forenses.                                                         |
-| Belkasoft Evidence Center                        | Ferramenta de coleta e análise forense de dados de dispositivos móveis e computadores.                                                                         |
-| Recon Lab                                        | Ferramenta para análise de dados forenses e execução de tarefas de investigação.                                                                               |
-| Plaso / log2timeline                            | Ferramenta para criação de linhas do tempo baseadas em logs, amplamente usada em investigações forenses.                                                         |
-| DumpIT                                           | Ferramenta para extração de memória RAM de sistemas Windows, útil para investigações forenses e análise de malware.                                               |
-| Bulk Extractor                                   | Ferramenta para extração de dados úteis de imagens de disco, como e-mails e informações de contato.                                                             |
-| Volatility - Framework para resposta a incidentes | Framework de análise de memória para investigações de incidentes de segurança, com foco em malware e ataques avançados.                                          |
-| VOLIX II - Frontend para o Volatility            | Interface gráfica para o Volatility, facilitando a análise de memória em investigações forenses.                                                                |
-| Magnet Forensics AXIOM - Decryptor               | Ferramenta para descriptografar dados durante investigações forenses, com suporte para diversos tipos de criptografia.                                           |
-| Psalm          | Ferramenta de análise estática de segurança (SAST) integrada ao VS Code, usada para identificar vulnerabilidades em código durante o desenvolvimento.      |
-| Sempgrep      | Ferramenta de análise estática para segurança de código-fonte, integrada ao VS Code, útil para detectar falhas de segurança enquanto o código é escrito.    |
-| HDDScan                       | Ferramenta de diagnóstico de discos rígidos, útil para monitorar o estado de saúde do HD e realizar testes de desempenho e falhas.                       |
-| Memtest86                     | Ferramenta para testar a memória RAM de sistemas, identificando falhas e problemas de hardware.                                                         |
-| OpenHardwareMonitor           | Ferramenta para monitoramento de hardware, fornecendo informações sobre temperatura, voltagem, carga e status de sensores no computador.                 |
-| Pestudio                      | Ferramenta para análise de malware e engenharia reversa de arquivos executáveis, permitindo investigar as características e comportamentos de arquivos.  |
-| Process Explorer               | Ferramenta para análise de processos no sistema Windows, permitindo monitorar e investigar atividades de processos em tempo real.                        |
-| Ultimate Windows Tweaker       | Ferramenta para otimização e personalização do sistema Windows, com várias opções de configuração para melhorar o desempenho.                           |
-| OOSU10                         | Ferramenta para ajustar configurações do sistema operacional Windows 10, incluindo otimizações de segurança e privacidade.                               |
-| Autoruns                       | Ferramenta para gerenciar e controlar os programas que são executados automaticamente no Windows.                                                      |
-| HxD                            | Editor hexadecimal para análise e modificação de arquivos binários, usado em engenharia reversa e análise forense.                                      |
+| Hydra                  | Ferramenta de força bruta para ataque de senhas em diversos protocolos.                                                         |
+| Kerbrute               | Ferramenta para descoberta de usuários e senhas em redes Windows com ataque de força bruta.                                     |
+| Enum4Linux             | Ferramenta de enumeração de informações sobre sistemas Linux, útil para auditorias de segurança.                                |
+| LinPEAS                | Script de coleta de informações para a análise de segurança em sistemas Linux.                                                  |
+| LinEnum                | Script Bash que executa uma série de comandos para auxiliar na escalada de privilégios em sistemas Linux.                       |
+| PowerUp - Windows      | Script PowerShell que automatiza a exploração de falhas em sistemas Windows para escalada de privilégios.                       |
+| GNU Privacy Guard      | Ferramenta para criptografia simétrica e assimétrica, utilizado para proteção de dados.                                         |
+| OpenSSL Project        | Ferramenta que implementa criptografia simétrica e assimétrica, amplamente utilizada em diversos sistemas de segurança.         |
+| grub2-mkpasswd-pbkdf2  | Utilitário para criar senhas seguras para o GRUB Bootloader.                                                                    |
+| LUKS                   | Sistema de criptografia de disco completo para sistemas Linux, garantindo a segurança dos dados armazenados.                    |
+| Migrador de perfis     | Ferramenta para migração de perfis de usuário entre máquinas, útil para análise forense e recuperação de dados.                 |
+| Autopsy                | Ferramenta forense para análise de sistemas de arquivos e extração de evidências digitais.                                      |
+| FTK Imager             | Ferramenta forense para coleta de dados, incluindo extração de registros e imagens de discos rígidos.                           |
+| PALADIN                | Ambiente forense para análise de dados e evidências digitais, com ferramentas para investigação.                                |
+| WinFE                  | Windows Forensic Environment, uma versão do Windows usada para investigação forense sem alterar o sistema original.             |
+| Mini-WinFE             | Versão compacta do WinFE, otimizada para uso em investigações forenses.                                                         |
+| X-Ways                 | Ferramenta forense avançada para análise de dados e recuperação de informações, também permite criar uma linha do tempo.        |
+| FTK Imager             | Versão do FTK Imager que suporta a extração e análise de dumps de memória RAM em investigações forenses.                        |
+| Belkasoft Evidence Center | Ferramenta de coleta e análise forense de dados de dispositivos móveis e computadores.                                       |
+| Recon Lab              | Ferramenta para análise de dados forenses e execução de tarefas de investigação.                                                |
+| Plaso / log2timeline   | Ferramenta para criação de linhas do tempo baseadas em logs, amplamente usada em investigações forenses.                        |
+| DumpIT                 | Ferramenta para extração de memória RAM de sistemas Windows, útil para investigações forenses e análise de malware.             |
+| Bulk Extractor         | Ferramenta para extração de dados úteis de imagens de disco, como e-mails e informações de contato.                             |
+| Volatility             | Framework de análise de memória para investigações de incidentes de segurança, com foco em malware e ataques avançados.         |
+| VOLIX II               | Interface gráfica para o Volatility, facilitando a análise de memória em investigações forenses.                                |
+| Magnet Forensics AXIOM | Ferramenta para descriptografar dados durante investigações forenses, com suporte para diversos tipos de criptografia.          |
+| Psalm                  | Ferramenta de análise estática de segurança (SAST) integrada ao VS Code, usada para identificar vulnerabilidades em código durante o desenvolvimento.    |
+| Sempgrep               | Ferramenta de análise estática para segurança de código-fonte, integrada ao VS Code, útil para detectar falhas de segurança enquanto o código é escrito. |
+| HDDScan                | Ferramenta de diagnóstico de discos rígidos, útil para monitorar o estado de saúde do HD e realizar testes de desempenho e falhas.                       |
+| Memtest86              | Ferramenta para testar a memória RAM de sistemas, identificando falhas e problemas de hardware.                                |
+| OpenHardwareMonitor    | Ferramenta para monitoramento de hardware, fornecendo informações sobre temperatura, voltagem, carga e status de sensores no computador.                 |
+| Pestudio               | Ferramenta para análise de malware e engenharia reversa de arquivos executáveis, permitindo investigar as características e comportamentos de arquivos.  |
+| Process Explorer       | Ferramenta para análise de processos no sistema Windows, permitindo monitorar e investigar atividades de processos em tempo real.                        |
+| Ultimate Windows Tweaker | Ferramenta para otimização e personalização do sistema Windows, com várias opções de configuração para melhorar o desempenho.                          |
+| OOSU10                 | Ferramenta para ajustar configurações do sistema operacional Windows 10, incluindo otimizações de segurança e privacidade.     |
+| Autoruns               | Ferramenta para gerenciar e controlar os programas que são executados automaticamente no Windows.                              |
+| HxD                    | Editor hexadecimal para análise e modificação de arquivos binários, usado em engenharia reversa e análise forense.             |                               
 
 </div> 
 </details>
