@@ -28,44 +28,44 @@
 | Gobuster               | Outra ferramenta de brute force para descobrir subdomínios e diretórios em servidores web.         | 
 | requestbin.com         | Serviço para coletar e logar requisições HTTP para análise posterior.                              | 
 | Dependency-Check OWASP | Ferramenta para detectar bibliotecas e dependências vulneráveis em projetos de software.           |
-| [Hashes - Decrypt Hash](https://hashes.com/en/decrypt/hash) | Ferramenta para descriptografar diferentes tipos de hash. |
-| [CrackStation](https://crackstation.net/) | Ferramenta online para quebra de senhas usando ataques de dicionário. |
-| GetTwitterID | Ferramenta para coletar o ID de usuário do Twitter. |
-| Chrome Cache | Ferramenta para visualizar e transformar dados do cache do Chrome em um formato legível. |
-| Internet Explorer Cache Viewer | Visualizador de cache para o navegador Internet Explorer. |
-| MZCacheView | Visualizador de cache para o Mozilla Firefox. |
-| MZCookiesView | Ferramenta para visualizar cookies do Mozilla Firefox. |
-| MZHistoryView | Ferramenta para visualizar o histórico de navegação do Mozilla Firefox. |
-| Password Fox | Ferramenta para descriptografar senhas salvas no Firefox. |
-| Favorites View | Ferramenta para visualizar os favoritos do Mozilla Firefox. |
-| XSS Hunter Express                              | Ferramenta para detectar e explorar vulnerabilidades de Cross-Site Scripting (XSS) em aplicações web.                                                            |
-| Osquery                                          | Ferramenta que transforma sistemas operacionais em bancos relacionais para consultas, permitindo auditorias em tempo real.                                       |
-| RegRipper                                        | Ferramenta de análise de registros do Windows, útil para investigação forense.                                                                                 |
-| Registry Viewer                                 | Ferramenta para visualização e análise de registros do Windows.                                                                                                |
-| Zimmerman's Registry Explorer                   | Visualizador de registros do Windows para análise forense.                                                                                                     |
-| KAPE                                             | Ferramenta de cópia de registros e coleta de dados para investigações forenses.                                                                                 |
-| Volatility - Framework para resposta a incidentes | Framework de análise de memória para investigações de incidentes de segurança, com foco em malware e ataques avançados.                                          |
-| VOLIX II - Frontend para o Volatility            | Interface gráfica para o Volatility, facilitando a análise de memória em investigações forenses.                                                                |
-| Magnet Forensics AXIOM - Decryptor               | Ferramenta para descriptografar dados durante investigações forenses, com suporte para diversos tipos de criptografia.                                           |
-| DumpIT                                           | Ferramenta para extração de memória RAM de sistemas Windows, útil para investigações forenses e análise de malware.                                               |
-| Bulk Extractor                                   | Ferramenta para extração de dados úteis de imagens de disco, como e-mails e informações de contato.                                                             |
-| Process Hacker                                    | Ferramenta para monitoramento e análise de processos em sistemas Windows, útil para identificar atividades maliciosas.                                           |
-| Process Explorer                                 | Ferramenta avançada para análise de processos e recursos no Windows, útil para investigar comportamentos suspeitos.                                              |
-| Windows Event Logs                              | Logs de eventos do Windows, utilizados para monitoramento de segurança e investigação de incidentes através do Event Viewer ou comandos PowerShell.               |
-| Sysmon                                           | Ferramenta de monitoramento de eventos do sistema, proporcionando detalhes sobre processos, conexões de rede e alterações no sistema.                             |
-| Wazuh                                           | Plataforma de monitoramento de segurança, baseada no OSSEC, com foco em análise de eventos e resposta a incidentes.                                               |
-| OSQuery                                          | Ferramenta que transforma o sistema operacional em um banco de dados relacional para coleta de informações via queries SQL.                                       |
-| RegRipper                                        | Ferramenta especializada na análise de registros do Windows, amplamente usada em investigações forenses.                                                         |
-| EnCase Forensic                                 | Ferramenta forense utilizada para análise de discos rígidos, recuperação de dados e investigação de incidentes de segurança.                                      |
-| ZAP Proxy - DAST               | Ferramenta de teste de segurança dinâmica (DAST), usada para detectar vulnerabilidades em aplicativos web e APIs, realizando testes automatizados de segurança. |
-| Sublist3r                     | Ferramenta para enumeração de subdomínios, usada para coletar informações sobre um domínio e suas infraestruturas web.                                |
-| SubBrute                      | Ferramenta para realizar ataques de força bruta em subdomínios, explorando listas de palavras para identificar subdomínios de uma organização.         |
-| Amass                         | Ferramenta para descoberta e enumeração de subdomínios, coletando dados para análise de segurança em infraestruturas web.                               |
-| GoBuster                      | Ferramenta para escanear diretórios e subdomínios, utilizada em testes de penetração e auditoria de segurança.                                          |
-| Nmap                          | Ferramenta de escaneamento de redes, amplamente utilizada para identificar hosts, serviços e vulnerabilidades em uma rede.                               |
-| Masscan                       | Ferramenta de escaneamento de redes de alta performance, projetada para realizar varreduras rápidas de grandes redes.                                   |
-| EyeWitness                    | Ferramenta para capturar e analisar imagens de páginas web de forma automatizada, útil em auditorias de segurança.                                      |
-| Snapper                       | Ferramenta para capturar imagens de telas e páginas web, usada para análise visual durante a investigação de segurança.                                  |
+| [Hashes - Decrypt Hash](https://hashes.com/en/decrypt/hash) | Ferramenta para descriptografar diferentes tipos de hash.     |
+| [CrackStation](https://crackstation.net/) | Ferramenta online para quebra de senhas usando ataques de dicionário.           |
+| GetTwitterID           | Ferramenta para coletar o ID de usuário do Twitter.                                                |
+| Chrome Cache           | Ferramenta para visualizar e transformar dados do cache do Chrome em um formato legível.           |
+| Internet Explorer Cache Viewer | Visualizador de cache para o navegador Internet Explorer.                                  |
+| MZCacheView            | Visualizador de cache para o Mozilla Firefox.                                                      |
+| MZCookiesView          | Ferramenta para visualizar cookies do Mozilla Firefox.                                             |
+| MZHistoryView          | Ferramenta para visualizar o histórico de navegação do Mozilla Firefox.                            |
+| Password Fox           | Ferramenta para descriptografar senhas salvas no Firefox.                                          |
+| Favorites View         | Ferramenta para visualizar os favoritos do Mozilla Firefox.                                        |
+| XSS Hunter Express     | Ferramenta para detectar e explorar XSS em aplicações web.                                         |
+| Osquery                | Ferramenta que transforma sistemas operacionais em bancos relacionais para consultas, permitindo auditorias em tempo real. |
+| RegRipper              | Ferramenta de análise de registros do Windows, útil para investigação forense.                     |
+| Registry Viewer        | Ferramenta para visualização e análise de registros do Windows.                                    |
+| Zimmerman's Registry Explorer | Visualizador de registros do Windows para análise forense.                                  |
+| KAPE                   | Ferramenta de cópia de registros e coleta de dados para investigações forenses.                    |
+| Volatility             | Framework de análise de memória para investigações de incidentes de segurança, com foco em malware e ataques avançados.     |
+| VOLIX II               | Interface gráfica para o Volatility, facilitando a análise de memória em investigações forenses.   |
+| Magnet Forensics AXIOM - Decryptor | Ferramenta para descriptografar dados durante investigações forenses, com suporte para diversos tipos de criptografia. |
+| DumpIT                 | Ferramenta para extração de memória RAM de sistemas Windows, útil para investigações forenses e análise de malware.                |
+| Bulk Extractor         | Ferramenta para extração de dados úteis de imagens de disco, como e-mails e informações de contato.                                |
+| Process Hacker         | Ferramenta para monitoramento e análise de processos em sistemas Windows, útil para identificar atividades maliciosas.             |
+| Process Explorer       | Ferramenta avançada para análise de processos e recursos no Windows, útil para investigar comportamentos suspeitos.                |
+| Windows Event Logs     | Logs de eventos do Windows, utilizados para monitoramento de segurança e investigação de incidentes através do Event Viewer ou comandos PowerShell.     |
+| Sysmon                 | Ferramenta de monitoramento de eventos do sistema, proporcionando detalhes sobre processos, conexões de rede e alterações no sistema.                   |
+| Wazuh                  | Plataforma de monitoramento de segurança, baseada no OSSEC, com foco em análise de eventos e resposta a incidentes.                                     |
+| OSQuery                | Ferramenta que transforma o sistema operacional em um banco de dados relacional para coleta de informações via queries SQL.                             |
+| RegRipper              | Ferramenta especializada na análise de registros do Windows, amplamente usada em investigações forenses.                                                |
+| EnCase Forensic        | Ferramenta forense utilizada para análise de discos rígidos, recuperação de dados e investigação de incidentes de segurança.                            |
+| ZAP Proxy - DAST       | Ferramenta de teste de segurança dinâmica (DAST), usada para detectar vulnerabilidades em aplicativos web e APIs, realizando testes automatizados de segurança. |
+| Sublist3r              | Ferramenta para enumeração de subdomínios, usada para coletar informações sobre um domínio e suas infraestruturas web.                          |
+| SubBrute               | Ferramenta para realizar ataques de força bruta em subdomínios, explorando listas de palavras para identificar subdomínios de uma organização.  |
+| Amass                  | Ferramenta para descoberta e enumeração de subdomínios, coletando dados para análise de segurança em infraestruturas web.                       |
+| GoBuster               | Ferramenta para escanear diretórios e subdomínios, utilizada em testes de penetração e auditoria de segurança.                                  |
+| Nmap                   | Ferramenta de escaneamento de redes, amplamente utilizada para identificar hosts, serviços e vulnerabilidades em uma rede.                      |
+| Masscan                | Ferramenta de escaneamento de redes de alta performance, projetada para realizar varreduras rápidas de grandes redes.                           |
+| EyeWitness             | Ferramenta para capturar e analisar imagens de páginas web de forma automatizada, útil em auditorias de segurança.                              |
+| Snapper                | Ferramenta para capturar imagens de telas e páginas web, usada para análise visual durante a investigação de segurança.                         |
 
 </div> 
 </details>
