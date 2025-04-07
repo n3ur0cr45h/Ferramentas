@@ -233,26 +233,27 @@
 | Sublist3r              | Outra ferramenta para reconhecimento e brute force de subdomínios.                          |
 | Nbtscan                | Scanner de rede para descobrir computadores e serviços utilizando o protocolo NetBIOS.      |
 | Enum4Linux             | Ferramenta para enumeração de informações em redes Linux, como usuários e compartilhamentos.|
-| Smtp-user-enum       | Ferramenta de enumeração de usuários válidos em servidores SMTP, coleta de dados de e-mail  |
-| [Base64 Encode](https://www.base64encode.org/) | Ferramenta para codificar dados em Base64. |
+| Smtp-user-enum         | Ferramenta de enumeração de usuários válidos em servidores SMTP, coleta de dados de e-mail  |
+| [Base64 Encode](https://www.base64encode.org/) | Ferramenta para codificar dados em Base64.                          |
 | [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database) | Banco de dados de favicons, útil para identificar frameworks e tecnologias usadas em sites. |
-| Snort                                           | Sistema de detecção de intrusão (IDS) de rede, utilizado para identificar ataques e atividades maliciosas.                                                      |
-| NetworkMiner                                     | Ferramenta de análise forense de rede, usada para capturar pacotes e reconstruir sessões de rede.                                                              |
-| Zeek                                            | Framework de monitoramento e análise de tráfego de rede, usado para detectar e registrar eventos de segurança.                                                   |
-| Brim                                            | Interface de análise de logs de rede, baseada em Zeek, para investigar eventos de segurança.                                                                  |
-| Wireshark                                        | Ferramenta de análise de pacotes de rede, amplamente utilizada para inspeção de tráfego e resolução de problemas de rede.                                          |
-| Scapy                                           | Ferramenta de criação e manipulação de pacotes de rede, útil para testar e explorar redes.                                                                     |
-| MISP                                            | Plataforma de compartilhamento de informações de ameaças cibernéticas, usada para gerar inteligência de ameaças.                                                  |
-| OpenCTI                                          | Plataforma de inteligência de ameaças cibernéticas para a integração de dados de ameaças e análise colaborativa.                                                   |
-| SELinux                        | Framework de segurança para sistemas Linux, proporcionando controle de acesso obrigatório para limitar o impacto de brechas de segurança.                |
-| AppArmor                       | Sistema de controle de acesso baseado em perfis de segurança, utilizado em sistemas Linux para isolar e proteger aplicativos contra ações maliciosas.     |
-| Netfilter                      | Framework de filtragem de pacotes em sistemas Linux, utilizado para controlar o tráfego de rede e aplicar regras de firewall.                           |
-| Iptables                       | Ferramenta de filtragem de pacotes de rede no Linux, utilizada para configurar regras de firewall e proteger a rede.                                     |
-| Nftables                       | Substituto do Iptables, oferece uma estrutura mais flexível e eficiente para a filtragem de pacotes e controle de tráfego de rede em sistemas Linux.     |
-| iPerf / iPerf3                 | Ferramenta para medição de desempenho de redes, útil para testar largura de banda e desempenho de conexões em redes locais ou remotas.                  |
-| DNS Bench                      | Ferramenta para testar e comparar o desempenho de servidores DNS, útil para análise e otimização de conexões de rede.                                    |
-| Virtual Here                   | Ferramenta que permite o uso remoto de dispositivos USB, facilitando o acesso a dispositivos físicos de locais diferentes.                               |
-| TCP View                       | Ferramenta para monitoramento de conexões TCP/IP, exibindo informações detalhadas sobre processos e conexões de rede em tempo real.                    |
+| Snort                  | Sistema de detecção de intrusão (IDS) de rede, utilizado para identificar ataques e atividades maliciosas.                                             |
+| NetworkMiner           | Ferramenta de análise forense de rede, usada para capturar pacotes e reconstruir sessões de rede.                                                      |
+| Zeek                   | Framework de monitoramento e análise de tráfego de rede, usado para detectar e registrar eventos de segurança.                                         |
+| Brim                   | Interface de análise de logs de rede, baseada em Zeek, para investigar eventos de segurança.                                                           |
+| Wireshark              | Ferramenta de análise de pacotes de rede, amplamente utilizada para inspeção de tráfego e resolução de problemas de rede.                              |
+| Scapy                  | Ferramenta de criação e manipulação de pacotes de rede, útil para testar e explorar redes.                                                             |
+| MISP                   | Plataforma de compartilhamento de informações de ameaças cibernéticas, usada para gerar inteligência de ameaças.                                       |
+| OpenCTI                | Plataforma de inteligência de ameaças cibernéticas para a integração de dados de ameaças e análise colaborativa.                                       |
+| SELinux                | Framework de segurança para sistemas Linux, proporcionando controle de acesso obrigatório para limitar o impacto de brechas de segurança.              |
+| AppArmor               | Sistema de controle de acesso baseado em perfis de segurança, utilizado em sistemas Linux para isolar e proteger aplicativos contra ações maliciosas.  |
+| Netfilter              | Framework de filtragem de pacotes em sistemas Linux, utilizado para controlar o tráfego de rede e aplicar regras de firewall.                          |
+| Iptables               | Ferramenta de filtragem de pacotes de rede no Linux, utilizada para configurar regras de firewall e proteger a rede.                                   |
+| Nftables               | Substituto do Iptables, oferece uma estrutura mais flexível e eficiente para a filtragem de pacotes e controle de tráfego de rede em sistemas Linux.   |
+| iPerf / iPerf3         | Ferramenta para medição de desempenho de redes, útil para testar largura de banda e desempenho de conexões em redes locais ou remotas.                 |
+| DNS Bench              | Ferramenta para testar e comparar o desempenho de servidores DNS, útil para análise e otimização de conexões de rede.                                  |
+| Virtual Here           | Ferramenta que permite o uso remoto de dispositivos USB, facilitando o acesso a dispositivos físicos de locais diferentes.                             |
+| TCP View               | Ferramenta para monitoramento de conexões TCP/IP, exibindo informações detalhadas sobre processos e conexões de rede em tempo real.                    |
+
 
 
 
@@ -287,67 +288,66 @@
 | ELK                     | Conjunto para coleta, análise e visualização de dados, monitoramento de segurança.         |
 | QRadar                  | Sistema SIEM para detecção, resposta e análise de ameaças de segurança.                    | 
 | Frida                   | Framework de injeção de scripts em tempo real, para análise e engenharia reversa de apps   |
-| [SRIHash](https://www.srihash.org/) | Ferramenta para verificação de hash, usada para segurança. |
+| [SRIHash](https://www.srihash.org/) | Ferramenta para verificação de hash, usada para segurança.                     |
 | [Hashcat - Exemplo de Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) | Exemplo de uso do Hashcat para quebra de hashes. |
-| Hashcat | Ferramenta avançada para cracking de hashes. |
-| John The Ripper (Unshadow, Zip2John, RAR2John, SSH2John, Gpg2john) | Conjunto de ferramentas para quebra de senhas, cada uma focada em tipos específicos de hashes ou arquivos. |
-| Hash Suite | Ferramenta para análise e cracking de hashes. |
-| RSATOOL | Ferramenta para análise e quebra de criptografia RSA. |
-| [RSA Encryption - MuirlandOracle](https://muirlandoracle.co.uk/2020/01/29/rsa-encryption/) | Artigo sobre criptografia RSA, útil para análise de segurança. |
-| [DigiCert Help](https://www.digicert.com/help/) | Ferramenta online para verificação de certificados SSL/TLS. |
-| SSH-keygen | Ferramenta para gerar pares de chaves SSH, essencial para autenticação segura em redes. |
-| Gpg4win | Ferramenta de criptografia de e-mails e arquivos para Windows. |
-| Hydra                                           | Ferramenta de força bruta para ataque de senhas em diversos protocolos.                                                                                        |
-| Kerbrute                                         | Ferramenta para descoberta de usuários e senhas em redes Windows com ataque de força bruta.                                                                    |
-| Golden Ticket Attack                            | Técnica de ataque utilizada para obter acesso persistente em redes Windows, criada pelo PowerShell Empire.                                                      |
-| Snort                                           | Sistema de detecção de intrusão (IDS) de rede, utilizado para identificar ataques e atividades maliciosas.                                                      |
-| NetworkMiner                                     | Ferramenta de análise forense de rede, usada para capturar pacotes e reconstruir sessões de rede.                                                              |
-| Zeek                                            | Framework de monitoramento e análise de tráfego de rede, usado para detectar e registrar eventos de segurança.                                                   |
-| Wireshark                                        | Ferramenta de análise de pacotes de rede, amplamente utilizada para inspeção de tráfego e resolução de problemas de rede.                                          |
-| Yara                                            | Ferramenta de criação de regras para detectar malware através de características específicas.                                                                  |
-| Scapy                                           | Ferramenta de criação e manipulação de pacotes de rede, útil para testar e explorar redes.                                                                     |
-| Pyramid of Pain                                  | Modelo de segurança que descreve as dificuldades que um atacante deve superar em diferentes níveis de ataque.                                                     |
-| Cyber Kill Chain                                | Modelo que descreve as etapas de um ataque cibernético, desde a preparação até a execução.                                                                      |
-| Unified Kill Chain                              | Evolução do modelo Cyber Kill Chain, focando em uma abordagem unificada para responder a ameaças cibernéticas.                                                   |
-| Diamond Model                                    | Modelo para análise de incidentes de segurança, com foco em adversários, capacidades, infraestrutura e vítimas.                                                   |
-| MITRE                                            | Framework e estrutura de resposta a incidentes de segurança cibernética, amplamente utilizado para detectar e mitigar ameaças.                                    |
-| REMNUX - Reverse Engineering Malware Linux | Conjunto de ferramentas para análise de malware em sistemas Linux, utilizado para engenharia reversa e detecção de comportamentos maliciosos.           |
-| Online Cuckoo Sandbox          | Ambiente de sandbox online para analisar e estudar o comportamento de arquivos e URLs suspeitos.                                                      |
-| Online CAPE Sandbox            | Sandbox online para análise de arquivos e detecção de malwares, utilizado para entender comportamentos de ameaças.                                      |
-| Any.run                        | Ferramenta de análise interativa de malware em tempo real, usada para monitorar comportamentos de arquivos e executáveis em ambiente controlado.          |
-| Intezer                        | Plataforma de análise de malware que compara o código de arquivos suspeitos com uma base de dados de amostras conhecidas para detectar ameaças.          |
-| Hybrid Analysis                | Plataforma de sandbox que oferece análise de arquivos suspeitos em diversos ambientes, com resultados detalhados sobre o comportamento de malwares.        |
-| Cuckoo Sandbox                 | Ferramenta open-source de sandboxing para análise automatizada de arquivos e URLs suspeitos, monitorando o comportamento em um ambiente virtualizado.      |
-| https://hybrid-analysis.com/    | Plataforma de análise de malware que executa arquivos suspeitos em ambientes controlados, fornecendo relatórios detalhados.                               |
-| https://www.virustotal.com/gui/home/upload | Ferramenta que realiza a análise de arquivos e URLs, utilizando múltiplos antivírus para detectar malwares.                                                |
-| Dependency Walker (depends)    | Ferramenta para análise de dependências de bibliotecas e módulos em executáveis no Windows.                                                             |
-| PeID                           | Ferramenta de identificação de malware que detecta e analisa executáveis para encontrar o tipo de compactação e ofuscação.                             |
-| PE Explorer                    | Ferramenta para análise e exploração de arquivos PE (Portable Executable) no Windows, incluindo funções de descompactação e visualização de recursos.     |
-| PEview                         | Visualizador de arquivos PE, utilizado para análise de executáveis no Windows, revelando informações como cabeçalhos e seções.                          |
-| ResourceHacker                 | Ferramenta para modificar recursos em arquivos executáveis, como ícones, imagens e menus, usada em engenharia reversa e análise de malware.             |
-| IDA Freeware                   | Ferramenta de engenharia reversa popular, usada para análise de malware e outros binários em sistemas Windows e Linux.                                    |
-| WinDbg                         | Depurador da Microsoft para análise e depuração de programas e drivers no Windows, frequentemente utilizado em análise de malware.                       |
-| HashTab                        | Ferramenta para calcular e verificar hashes de arquivos, facilitando a comparação e análise de amostras de malware.                                       |
-| Gophish                       | Plataforma de simulação de phishing, utilizada para treinar e testar a resposta de usuários contra ataques de phishing.                                |
-| Zed Attack Proxy (ZAP)        | Ferramenta de teste de segurança dinâmica (DAST), usada para detectar vulnerabilidades em aplicativos web e APIs.                                       |
-| DirBuster                     | Ferramenta para realizar ataques de força bruta em diretórios e arquivos em servidores web, buscando falhas de segurança.                              |
-| Gobuster                      | Ferramenta para realizar ataques de força bruta em subdomínios e diretórios, utilizada para auditoria de segurança em web servers.                     |
-| Wfuzz                         | Ferramenta para realizar fuzzing de entradas em aplicativos web, buscando vulnerabilidades como injeção de código e falhas de segurança.              |
-| Nmap                          | Ferramenta de escaneamento de redes, amplamente utilizada para identificar hosts, serviços e vulnerabilidades em uma rede.                               |
-| Masscan                       | Ferramenta de escaneamento de redes de alta performance, projetada para realizar varreduras rápidas de grandes redes.                                   |
-| Shodan                        | Motor de busca para dispositivos conectados à internet, útil para identificar sistemas vulneráveis e expostos à rede.                                  |
-| Censys                        | Plataforma de pesquisa de segurança, fornecendo informações detalhadas sobre a infraestrutura de internet e dispositivos conectados.                   |
-| Project Sonar                 | Projeto que coleta dados sobre a infraestrutura da web e disponibiliza informações sobre serviços e dispositivos conectados à rede.                    |
-| The Harvester                 | Ferramenta de coleta de informações sobre e-mails, subdomínios e outras informações públicas, útil em testes de segurança.                              |
-| Gitrob                        | Ferramenta para encontrar segredos e credenciais expostas em repositórios do GitHub.                                                                  |
-| TruffleHog                    | Ferramenta que escaneia repositórios Git em busca de segredos e chaves API expostas.                                                                  |
-| Wappalyzer                    | Ferramenta que identifica as tecnologias usadas em websites, como frameworks, CMS, bibliotecas, etc.                                                   |
-| BuiltWith                     | Ferramenta que identifica as tecnologias utilizadas em um site, fornecendo dados detalhados sobre a infraestrutura web.                                 |
-| Stackshare                    | Plataforma para análise e compartilhamento de stacks de tecnologia usadas por empresas e desenvolvedores.                                              |
-| Pastebin                      | Site de compartilhamento de código e dados, frequentemente utilizado para vazamentos de informações e análise de segurança.                            |
-| PasteHunter                   | Ferramenta para caçar pastas e dados vazados no Pastebin e sites semelhantes.                                                                         |
-| WayBack Machine               | Ferramenta que permite acessar versões antigas de websites através de snapshots armazenados ao longo do tempo.                                          |
-| FoxyProxy                     | Ferramenta que facilita o gerenciamento de proxies em navegadores, útil para anonimizar e redirecionar o tráfego de rede.                              |
+| Hashcat                 | Ferramenta avançada para cracking de hashes.                                                                |
+| John The Ripper         | Conjunto de ferramentas para quebra de senhas, cada uma focada em tipos específicos de hashes ou arquivos.  |
+| Hash Suite              | Ferramenta para análise e cracking de hashes.                                                               |
+| RSATOOL                 | Ferramenta para análise e quebra de criptografia RSA.                                                       |
+| [DigiCert Help](https://www.digicert.com/help/) | Ferramenta online para verificação de certificados SSL/TLS.                         |
+| SSH-keygen              | Ferramenta para gerar pares de chaves SSH, essencial para autenticação segura em redes.                     |
+| Gpg4win                 | Ferramenta de criptografia de e-mails e arquivos para Windows.                                              |
+| Hydra                   | Ferramenta de força bruta para ataque de senhas em diversos protocolos.                                                                              |
+| Kerbrute                | Ferramenta para descoberta de usuários e senhas em redes Windows com ataque de força bruta.                                                          |
+| Golden Ticket Attack    | Técnica de ataque utilizada para obter acesso persistente em redes Windows, criada pelo PowerShell Empire.                                           |
+| Snort                   | Sistema de detecção de intrusão (IDS) de rede, utilizado para identificar ataques e atividades maliciosas.                                           |
+| NetworkMiner            | Ferramenta de análise forense de rede, usada para capturar pacotes e reconstruir sessões de rede.                                                    |
+| Zeek                    | Framework de monitoramento e análise de tráfego de rede, usado para detectar e registrar eventos de segurança.                                       |
+| Wireshark               | Ferramenta de análise de pacotes de rede, amplamente utilizada para inspeção de tráfego e resolução de problemas de rede.                            |
+| Yara                    | Ferramenta de criação de regras para detectar malware através de características específicas.                                                        |
+| Scapy                   | Ferramenta de criação e manipulação de pacotes de rede, útil para testar e explorar redes.                                                           |
+| Pyramid of Pain         | Modelo de segurança que descreve as dificuldades que um atacante deve superar em diferentes níveis de ataque.                                        |
+| Cyber Kill Chain        | Modelo que descreve as etapas de um ataque cibernético, desde a preparação até a execução.                                                           |
+| Unified Kill Chain      | Evolução do modelo Cyber Kill Chain, focando em uma abordagem unificada para responder a ameaças cibernéticas.                                       |
+| Diamond Model           | Modelo para análise de incidentes de segurança, com foco em adversários, capacidades, infraestrutura e vítimas.                                      |
+| MITRE                   | Framework e estrutura de resposta a incidentes de segurança cibernética, amplamente utilizado para detectar e mitigar ameaças.                       |
+| REMNUX                  | Conjunto de ferramentas para análise de malware em sistemas Linux, utilizado para engenharia reversa e detecção de comportamentos maliciosos.        |
+| Online Cuckoo Sandbox   | Ambiente de sandbox online para analisar e estudar o comportamento de arquivos e URLs suspeitos.                                                     |
+| Online CAPE Sandbox     | Sandbox online para análise de arquivos e detecção de malwares, utilizado para entender comportamentos de ameaças.                                   |
+| Any.run                 | Ferramenta de análise interativa de malware em tempo real, usada para monitorar comportamentos de arquivos e executáveis em ambiente controlado.     |
+| Intezer                 | Plataforma de análise de malware que compara o código de arquivos suspeitos com uma base de dados de amostras conhecidas para detectar ameaças.      |
+| Hybrid Analysis         | Plataforma de sandbox que oferece análise de arquivos suspeitos em diversos ambientes, com resultados detalhados sobre o comportamento de malwares.  |
+| Cuckoo Sandbox          | Ferramenta open-source de sandboxing para análise automatizada de arquivos e URLs suspeitos, monitorando o comportamento em um ambiente virtualizado.|
+| https://hybrid-analysis.com/    | Plataforma de análise de malware que executa arquivos suspeitos em ambientes controlados, fornecendo relatórios detalhados.                  |
+| https://www.virustotal.com/gui/home/upload | Ferramenta que realiza a análise de arquivos e URLs, utilizando múltiplos antivírus para detectar malwares.                       |
+| Dependency Walker       | Ferramenta para análise de dependências de bibliotecas e módulos em executáveis no Windows.                                                          |
+| PeID                    | Ferramenta de identificação de malware que detecta e analisa executáveis para encontrar o tipo de compactação e ofuscação.                           |
+| PE Explorer             | Ferramenta para análise e exploração de arquivos PE (Portable Executable) no Windows, incluindo funções de descompactação e visualização de recursos.|
+| PEview                  | Visualizador de arquivos PE, utilizado para análise de executáveis no Windows, revelando informações como cabeçalhos e seções.                       |
+| ResourceHacker          | Ferramenta para modificar recursos em arquivos executáveis, como ícones, imagens e menus, usada em engenharia reversa e análise de malware.          |
+| IDA Freeware            | Ferramenta de engenharia reversa popular, usada para análise de malware e outros binários em sistemas Windows e Linux.                               |
+| WinDbg                  | Depurador da Microsoft para análise e depuração de programas e drivers no Windows, frequentemente utilizado em análise de malware.                   |
+| HashTab                 | Ferramenta para calcular e verificar hashes de arquivos, facilitando a comparação e análise de amostras de malware.                                  |
+| Gophish                 | Plataforma de simulação de phishing, utilizada para treinar e testar a resposta de usuários contra ataques de phishing.                              |
+| Zed Attack Proxy (ZAP)  | Ferramenta de teste de segurança dinâmica (DAST), usada para detectar vulnerabilidades em aplicativos web e APIs.                                    |
+| DirBuster               | Ferramenta para realizar ataques de força bruta em diretórios e arquivos em servidores web, buscando falhas de segurança.                            |
+| Gobuster                | Ferramenta para realizar ataques de força bruta em subdomínios e diretórios, utilizada para auditoria de segurança em web servers.                   |
+| Wfuzz                   | Ferramenta para realizar fuzzing de entradas em aplicativos web, buscando vulnerabilidades como injeção de código e falhas de segurança.             |
+| Nmap                    | Ferramenta de escaneamento de redes, amplamente utilizada para identificar hosts, serviços e vulnerabilidades em uma rede.                           |
+| Masscan                 | Ferramenta de escaneamento de redes de alta performance, projetada para realizar varreduras rápidas de grandes redes.                                |
+| Shodan                  | Motor de busca para dispositivos conectados à internet, útil para identificar sistemas vulneráveis e expostos à rede.                                |
+| Censys                  | Plataforma de pesquisa de segurança, fornecendo informações detalhadas sobre a infraestrutura de internet e dispositivos conectados.                 |
+| Project Sonar           | Projeto que coleta dados sobre a infraestrutura da web e disponibiliza informações sobre serviços e dispositivos conectados à rede.                  |
+| The Harvester           | Ferramenta de coleta de informações sobre e-mails, subdomínios e outras informações públicas, útil em testes de segurança.                           |
+| Gitrob                  | Ferramenta para encontrar segredos e credenciais expostas em repositórios do GitHub.                                                                 |
+| TruffleHog              | Ferramenta que escaneia repositórios Git em busca de segredos e chaves API expostas.                                                                 |
+| Wappalyzer              | Ferramenta que identifica as tecnologias usadas em websites, como frameworks, CMS, bibliotecas, etc.                                                 |
+| BuiltWith               | Ferramenta que identifica as tecnologias utilizadas em um site, fornecendo dados detalhados sobre a infraestrutura web.                              |
+| Stackshare              | Plataforma para análise e compartilhamento de stacks de tecnologia usadas por empresas e desenvolvedores.                                            |
+| Pastebin                | Site de compartilhamento de código e dados, frequentemente utilizado para vazamentos de informações e análise de segurança.                          |
+| PasteHunter             | Ferramenta para caçar pastas e dados vazados no Pastebin e sites semelhantes.                                                                        |
+| WayBack Machine         | Ferramenta que permite acessar versões antigas de websites através de snapshots armazenados ao longo do tempo.                                       |
+| FoxyProxy               | Ferramenta que facilita o gerenciamento de proxies em navegadores, útil para anonimizar e redirecionar o tráfego de rede.                            |
 
 </div> 
 </details>
